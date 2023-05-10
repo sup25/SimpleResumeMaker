@@ -22,8 +22,7 @@ Install my-project with npm
 
 ![image](https://github.com/sup25/SimpleResumeMaker/assets/47480308/215e8c90-9aa2-4550-8cf7-53ee6439e179)
 
-![image](https://github.com/sup25/SimpleResumeMaker/assets/47480308/f7e33e81-5190-4205-8b93-ef982e083247)
-
+![image](https://github.com/sup25/SimpleResumeMaker/assets/47480308/eed061d7-7288-4ecb-bc79-8c6ddaef45f8)
 
 
 ## Deployment
