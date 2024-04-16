@@ -1,9 +1,10 @@
 import React from "react";
-import Resume from "./resume/Resume";
+
+import Table from "./component/table";
 const App = () => {
   return (
     <div>
-      <Resume />
+      <Table />
     </div>
   );
 };
